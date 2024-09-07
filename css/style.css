@@ -1063,7 +1063,7 @@ footer.footer{
         grid-template-columns: repeat(1, 1fr);
     }
     .chefs .container .carts .cart {
-        width: 80%;
+        width: 70%;
         margin: auto;
     }
     .menu .menu-filters {
@@ -1077,7 +1077,7 @@ footer.footer{
         margin: auto;
     }
     .menu .menu-content .menu-card {
-        width: 270px;
+        width: 60%;
         margin: 1rem auto;
     }
     .contact .container .info {
@@ -1088,6 +1088,7 @@ footer.footer{
         gap: 12px;;
     }
     .form .ne input{
+        height: 30px;
         width: 100%;
     }
     .form .ne .inone{
@@ -1097,6 +1098,7 @@ footer.footer{
         margin-left: initial;
     }
     .form .btnF{
+        height: 30px;
         width: 100%;
     }
     footer.footer .container {
